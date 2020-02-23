@@ -1,6 +1,6 @@
 {
   "name": "@sutanlab/sequelize-cli-typescript",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "The Sequelize CLI (TypeScript)",
   "bin": {
     "sequelize": "./lib/sequelize"
