@@ -1,11 +1,11 @@
-import { QueryInterface, SequelizeStatic } from 'sequelize';
+import { QueryInterface, Sequelize } from 'sequelize';
 
 export = {
-	up: (queryInterface: QueryInterface, Sequelize: SequelizeStatic) => {
+	up: (queryInterface: QueryInterface, Sequelize: Sequelize) => {
 
 	},
 
-	down: (queryInterface: QueryInterface, Sequelize: SequelizeStatic) => {
+	down: (queryInterface: QueryInterface, Sequelize: Sequelize) => {
 
 	}
 };
