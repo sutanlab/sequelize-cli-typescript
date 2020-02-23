@@ -7,13 +7,16 @@ The Sequelize Command Line Interface (CLI) _for TypeScript_
 - [Contributing](#contributing)
 - [Documentation](#documentation)
 
+## Why
+The main repo [sequelize-cli-typescript](https://github.com/douglas-treadwell/sequelize-cli-typescript) is not longer maintained. Its still has issue when generate migrations.
+
 ## Installation
 
 ### Globally
 Install CLI globally with
 
 ```bash
-$ npm install -g sequelize-cli-typescript
+$ npm install -g @sutanlab/sequelize-cli-typescript
 ```
 
 Now you can run CLI using following command anywhere
@@ -26,7 +29,7 @@ $ sequelize
 Install CLI locally to your `node_modules` folder with
 
 ```bash
-$ npm install --save sequelize-cli-typescript
+$ npm install --save @sutanlab/sequelize-cli-typescript
 ```
 
 You should be able to run CLI with

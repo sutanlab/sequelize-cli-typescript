@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-cli-typescript",
+  "name": "@sutanlab/sequelize-cli-typescript",
   "version": "5.1.1",
   "description": "The Sequelize CLI (TypeScript)",
   "bin": {
